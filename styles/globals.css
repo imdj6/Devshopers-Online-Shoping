@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+}
+nav{
+    font-family: 'Ubuntu', sans-serif;
+}
