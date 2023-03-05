@@ -4,7 +4,7 @@ import { MoonIcon } from '@heroicons/react/24/solid'
 import Link from 'next/link'
 const NavBar2 = () => {
   return (
-    <nav className='flex justify-between items-center mt-8 ml-5 xl:ml-10 font-bold'>
+    <nav className='md:flex md:justify-between md:items-center md:mt-8 md:ml-5 xl:ml-10 md:font-bold hidden'>
       <div className='flex space-x-5'>
         <Link href={"/"}><div className='cursor-pointer'>Home</div></Link>
         <Link href={"/tshirts"}><div className='cursor-pointer'>T-Shirts</div></Link>

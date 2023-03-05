@@ -4,8 +4,8 @@ import Banner11 from '../public/banner2.webp'
 import Banner12 from '../public/banner11.webp'
 import Banner13 from '../public/banner12.webp'
 import Banner14 from '../public/banner1.webp'
-import Banner15 from '../public/Banner14.webp'
-import Banner16 from '../public/Banner13.webp'
+import Banner15 from '../public/banner1.webp'
+import Banner16 from '../public/banner1.webp'
 
 const Ads = () => {
     return (
